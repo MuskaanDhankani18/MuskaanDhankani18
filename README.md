@@ -1,3 +1,4 @@
+![logo](https://github.com/MuskaanDhankani18/MuskaanDhankani18/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Muskaan Dhankani</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
